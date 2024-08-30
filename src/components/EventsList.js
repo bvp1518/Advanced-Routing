@@ -28,11 +28,11 @@
 // export default EventsList;
 
 
-import { useLoaderData } from 'react-router-dom';
+// import { useLoaderData } from 'react-router-dom';
 import classes from './EventsList.module.css';
 
-function EventsList() {
-  const events = useLoaderData();
+function EventsList({events}) {
+  // const events = useLoaderData();
 
   return (
     <div className={classes.events}>
@@ -40,7 +40,7 @@ function EventsList() {
       <ul className={classes.list}>
         {events.map((event) => (
           <li key={event.id} className={classes.item}>
-            <a href={`/events/${event.id}`}>
+            <a href="...">
               <img src={event.image} alt={event.title} />
               <div className={classes.content}>
                 <h2>{event.title}</h2>
