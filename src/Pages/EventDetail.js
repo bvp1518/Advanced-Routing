@@ -3,7 +3,7 @@ import { useRouteLoaderData, json } from "react-router-dom";
 
 import EventItem from '../components/EventItem';
 
-function EventDetailPage() {
+function EventDetailPage({}) {
     const data= useRouteLoaderData('events-detail');
 
     return (

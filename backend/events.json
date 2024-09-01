@@ -1,11 +1,1 @@
-{
-  "events": [
-    {
-      "id": "e1",
-      "title": "A dummy event",
-      "date": "2023-02-22",
-      "image": "https://blog.hubspot.de/hubfs/Germany/Blog_images/Optimize_Marketing%20Events%20DACH%202021.jpg",
-      "description": "Join this amazing event and connect with fellow developers."
-    }
-  ]
-}
+{"events":[{"title":"Network","image":"https://www.google.com/imgres?q=event%20conference&imgurl=https%3A%2F%2Fmedia.licdn.com%2Fdms%2Fimage%2FD4D12AQFxuo8CWk6qIg%2Farticle-cover_image-shrink_720_1280%2F0%2F1681980612057%3Fe%3D2147483647%26v%3Dbeta%26t%3D3UqUyScRpe57OfnfM_R1IiYRfooYgHhNCKykNPGVYeI&imgrefurl=https%3A%2F%2Fwww.linkedin.com%2Fpulse%2Ftop-8-annual-conferences-event-industry-agorify&docid=UPHL6rd8Fd84uM&tbnid=RdwEY6n7RBmtXM&vet=12ahUKEwifgNvNyKCIAxXhxzgGHRguCJgQM3oECBoQAA..i&w=1080&h=720&hcb=2&ved=2ahUKEwifgNvNyKCIAxXhxzgGHRguCJgQM3oECBoQAA","date":"2024-09-02","description":"cdffrreqw","id":"5324ac27-a485-48e9-aed9-ad8c71d20a89"},{"title":"testttttttt","image":"https://pegasusevents.in/wp-content/uploads/2017/06/Marsh-and-Mclennan-Conference-by-Pegasus-Events-India-Pvt-Ltd-2.jpg","date":"2024-09-01","description":"test","id":"1244e904-908e-4e0d-9214-08432a564f89"},{"id":"e1","title":"A dummy event","date":"2023-02-22","image":"https://blog.hubspot.de/hubfs/Germany/Blog_images/Optimize_Marketing%20Events%20DACH%202021.jpg","description":"Join this amazing event and connect with fellow developers."}]}
